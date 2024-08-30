@@ -1,0 +1,27 @@
+.header-container {
+  max-width: 100%;
+}
+
+.header-container .nav-container {
+  margin: 1rem;
+  max-width: 50%;
+  background: #393433;
+}
+
+.header-container .nav-container .bg-menu {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style-type: none;
+  justify-content: flex-start;
+}
+
+.header-container .nav-container .nav-item {
+  margin: 15px;
+}
+
+.header-container .nav-container .nav-item .nav-link {
+  padding: 0 15px;
+  color: #ffff;
+  text-decoration: none;
+}
