@@ -68,8 +68,8 @@ body {
 }
 
 .main-container .title {
-  display: grid;
   margin-bottom: 30%;
+  position: relative;
 }
 
 .main-container .title span,
